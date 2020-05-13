@@ -6,7 +6,19 @@ a img {
   width: 50px;
 }
 
+header {
+  background-color: gray;
+}
+
 #searchIcon {
   width: 50px;
   background-color: blue;
+}
+
+.body {
+  height: 80vh;
+}
+
+footer {
+  background-color: gray;
 }
